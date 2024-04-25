@@ -1,5 +1,7 @@
 # Rubik's Cube Simulator
 This Python script simulates a Rubik's Cube using the Ursina game engine. You can interact with the virtual Rubik's Cube by performing various rotations and even randomizing its state.
+![image](https://github.com/TajnyReddy/Symulator-kostki-rubika/assets/59600478/15edeeb6-0fdb-444c-9784-47c66c0655e8)
+
 ### Basic Moves:
 * U: Up
 * D: Down
